@@ -1,0 +1,58 @@
+.caja_1{
+  text-align: center;
+  display: inline-block;
+  padding-top: 20px;
+  width: 220px;
+  height: 260px;
+  background: #edf3fc;
+  border: 2px solid #d7dbe2;
+}
+
+.caja_2{
+  text-align: center;
+  display: inline-block;
+  padding-top: 20px;
+  width: 220px;
+  height: 260px;
+  background: #edf3fc;
+  border: 2px solid #d7dbe2;
+}
+
+.caja_3{
+  text-align: center;
+  display: inline-block;
+  padding-top: 20px;
+  width: 220px;
+  height: 260px;
+  background: #edf3fc;
+  border: 2px solid #d7dbe2;
+  color: #bdbfc1;
+}
+
+.caja_4{
+  text-align: center;
+  display: inline-block;
+  padding-top: 20px;
+  width: 220px;
+  height: 260px;
+  background: #edf3fc;
+  border: 2px solid #d7dbe2;
+}
+
+.caja_5{
+  text-align: center;
+  display: inline-block;
+  padding-top: 20px;
+  width: 220px;
+  height: 260px;
+  background: #edf3fc;
+  border: 2px solid #d7dbe2;
+}
+p{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+h3,h5,p{
+  font-family: 'Droid Sans', sans-serif;
+}
